@@ -9,7 +9,7 @@ export default function Cabecalho(){
         <Link href="/">Home</Link>
         </div>
         <nav className="w-3/4 bg-slate-600 pr-8 flex justify-end gap-2">
-          <Link href="/testes/formEletiva">Cadastro</Link>
+          <Link href="/testes/formEletiva">CADASTRO</Link>
           <Link href="/testes/formEletiva">DEV PHM</Link>
           <p>link 3</p>
         </nav>
