@@ -11,7 +11,7 @@ export default function Cabecalho(){
         <nav className="w-3/4 bg-slate-600 pr-8 flex justify-end gap-2">
           <Link href="/testes/formEletiva">Cadastro</Link>
           <Link href="/testes/formEletiva">Lista</Link>
-          <Link href="/testes/formEletiva">Link para o merge do ph</Link>
+          <p>link 3</p>
         </nav>
       </header>
     )
